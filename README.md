@@ -79,6 +79,32 @@ numbers. Covers the AI-adjacent names (ASML, IREN, monday.com) alongside the
 rest of the market, which makes it a useful filter for the business reality
 behind AI capex. Also posts a weekly lookahead of which companies report next.
 
+### trendforce
+
+https://x.com/trendforce
+
+Market intelligence firm founded in 2000, covering semiconductors, memory,
+and displays. Corporate account, not an individual analyst.
+
+What you get: the memory price data everyone else quotes. Posts DRAM and NAND
+pricing moves, HBM contract price forecasts (another 70-140% up in 2027), and
+CSP capex allocation analysis, with links to the full research. Where the
+individual analysts on this list give you takes, TrendForce gives you the
+numbers underneath.
+
+### xu159411209
+
+https://x.com/xu159411209
+
+Chinese-language semiconductor supply chain analyst posting under the display
+name Zhaowen.
+
+What you get: supply chain updates with stock picks attached. Recent posts
+cover the materials choke points: high-purity quartz, germanium, and high-end
+NdFeB magnets, with mainland export review tightening since late 2025 slowing
+Taiwan equipment deliveries by months, per Nikkei Asia. Reads like a sector
+research note: what is tightening, who is exposed, which names benefit.
+
 ## Origin
 
 ### P_Bonnet
@@ -101,6 +127,8 @@ Capital the single biggest winner.
 | divBy_zero | inference numerics, mixed-precision matmul, accelerators | technical deep dives |
 | QingFengJianZX | chip packaging materials, ABF substrates, concept stocks | market news and stock roundups (Chinese) |
 | earnings_guy | earnings coverage across the market, AI-adjacent names included | charted earnings summaries |
+| trendforce | memory pricing, HBM, CSP capex | price data and research summaries |
+| xu159411209 | materials choke points, export controls | supply chain updates with stock picks (Chinese) |
 
 ## Adding to the list
 
