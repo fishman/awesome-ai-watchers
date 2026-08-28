@@ -105,6 +105,19 @@ NdFeB magnets, with mainland export review tightening since late 2025 slowing
 Taiwan equipment deliveries by months, per Nikkei Asia. Reads like a sector
 research note: what is tightening, who is exposed, which names benefit.
 
+### antiAIvo
+
+https://x.com/antiAIvo
+
+Chinese-language supply chain watcher posting under the display name Nano AI.
+
+What you get: component market intelligence with an AI server angle. Recent
+posts cover the MLCC price cycle: Samsung Electro-Mechanics leading Q4 OEM
+price hikes (consumer X5R up 25-30%, AI-server X6S up 10-20%), with Murata,
+Taiyo Yuden, and Kyocera holding back for now and some capacity utilization
+nearing 90%. Tracks passive components the way others on this list track
+memory: who hikes, who follows, what it signals about the AI server buildout.
+
 ## Origin
 
 ### P_Bonnet
@@ -129,6 +142,7 @@ Capital the single biggest winner.
 | earnings_guy | earnings coverage across the market, AI-adjacent names included | charted earnings summaries |
 | trendforce | memory pricing, HBM, CSP capex | price data and research summaries |
 | xu159411209 | materials choke points, export controls | supply chain updates with stock picks (Chinese) |
+| antiAIvo | passive components (MLCC), price cycles | component market intelligence (Chinese) |
 
 ## Adding to the list
 
