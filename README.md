@@ -14,6 +14,8 @@ actually makes money when an AI company gets acquired.
 
 https://x.com/jukan05
 
+Website: https://www.semiconsam.com/
+
 Semiconductor and AI hardware analyst on the Citrini Research team. Publishes
 long-form research on Substack as SemiconSam.
 
@@ -70,6 +72,8 @@ coverage.
 
 https://x.com/earnings_guy
 
+Support: https://ko-fi.com/earnings_guy
+
 The Earnings Correspondent. Independent account posting earnings coverage
 for public companies.
 
@@ -82,6 +86,8 @@ behind AI capex. Also posts a weekly lookahead of which companies report next.
 ### trendforce
 
 https://x.com/trendforce
+
+Website: https://www.trendforce.com/
 
 Market intelligence firm founded in 2000, covering semiconductors, memory,
 and displays. Corporate account, not an individual analyst.
@@ -118,6 +124,56 @@ Taiyo Yuden, and Kyocera holding back for now and some capacity utilization
 nearing 90%. Tracks passive components the way others on this list track
 memory: who hikes, who follows, what it signals about the AI server buildout.
 
+### vikramskr
+
+https://x.com/vikramskr
+
+Website: https://www.viksnewsletter.com/
+
+Vikram Sekar. Independent semiconductor researcher, physics-first as he
+puts it. Writes Vik's Newsletter on Substack and co-hosts the Semi Doped
+podcast.
+
+What you get: long-form physics-first semi research, plus short posts that
+land the idea. Examples from his feed: "Optics is the next Memory. You just
+don't know it yet," and the reminder that a 1.8nm node has 20-30nm physical
+transistors, so angstrom-class nodes are a figure of speech. 172 articles
+and roughly 400K words over 2.5 years on Substack. The account that the
+individual analysts and the price-data firms on this list both read.
+
+### lithos_graphein
+
+https://x.com/lithos_graphein
+
+Website: https://lithosgraphein.com/
+Substack: https://lithosgraphein.substack.com/
+
+Lithos Graphein. Three decades in semiconductor lithography, per the bio.
+Runs the Chip War Dashboard (lithosgraphein.com), a live feed of semi news
+and market data, and guest-contributes to SemiAnalysis.
+
+What you get: daily commentary and hot-takes on the chip war from a
+lithography veteran: EUV and High-NA economics, ASML, fab construction
+timelines ("at least 2 years from fab construction start to production"),
+and the process-technology layer the supply chain accounts on this list skim
+over. Long threads on ASML Investor Day and SPIE coverage.
+
+### pequityresearch
+
+https://x.com/pequityresearch
+
+Website: https://pequityresearch.substack.com/
+
+P Equity Research. Equity researcher with an accounting background (B.S. and
+M.S.) who publishes on Substack under the same name.
+
+What you get: AI capex and earnings analysis with financial modeling
+underneath. Recent posts cover the J.P. Morgan hyperscaler capex forecast
+(top 7 hyperscalers spending close to $1.5 trillion in 2027) and Meta's Q2
+earnings breakdown (revenue up 28%, costs up 55%, operating margin from 43%
+to 31%). Subscriber-gated deep dives on top of the free analysis, including
+collaborations like the substrate supply chain piece with Arvind.
+
 ## Origin
 
 ### P_Bonnet
@@ -143,6 +199,9 @@ Capital the single biggest winner.
 | trendforce | memory pricing, HBM, CSP capex | price data and research summaries |
 | xu159411209 | materials choke points, export controls | supply chain updates with stock picks (Chinese) |
 | antiAIvo | passive components (MLCC), price cycles | component market intelligence (Chinese) |
+| vikramskr | semiconductor physics, optics, nodes | long-form research and explainers |
+| lithos_graphein | EUV lithography, High-NA, fab timelines | daily commentary, threads, Chip War Dashboard |
+| pequityresearch | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives |
 
 ## Adding to the list
 

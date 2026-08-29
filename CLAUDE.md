@@ -4,8 +4,11 @@ Awesome-list repo of people worth following on the AI industry: analysts and
 watchers covering models, chips, memory, supply chains, policy, and the money
 behind AI deals.
 
-Entry format: handle, profile link, one paragraph on who they are, then a
-"What you get" paragraph on what they post and why it is worth reading.
+Entry format: handle, profile link, then optional link lines (Website,
+Substack, Telegram, WeChat, Discord, Support) only when the account actually
+maintains them and the link is verified - never guess or attribute lookalike
+channels - then one paragraph on who they are and a "What you get" paragraph
+on what they post and why it is worth reading.
 
 Style:
 - ASCII only, no em dashes or Unicode
