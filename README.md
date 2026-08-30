@@ -174,6 +174,27 @@ earnings breakdown (revenue up 28%, costs up 55%, operating margin from 43%
 to 31%). Subscriber-gated deep dives on top of the free analysis, including
 collaborations like the substrate supply chain piece with Arvind.
 
+### tphuang
+
+https://x.com/tphuang
+
+Substack: https://tphuang.substack.com/
+
+TP Huang. Former Salesforce VP turned technology investor, and one of the
+better China-watchers on AI. Hosts the China Tech Talk podcast and writes a
+Substack under the same name.
+
+What you get: direct-source analysis of the Chinese AI stack - chips,
+export controls, and the diverging supply chain - from someone who reads
+the Chinese coverage and primary material. Recent work (the Multipolarity
+Dialogues episode among it) argues the post-2022 export controls have set
+up a supply chain divergence that is building toward a space race over
+chips and software, and that China's edge is cost, not speed: it operates
+at a fraction of the cost of US rivals, so the perpetual six-to-twelve-month
+gap may not be decisive. Also covers embodied AI - models embedded into
+factories and robots - where China is integrating AI into physical systems
+rather than chasing California's AGI narrative.
+
 ## Origin
 
 ### P_Bonnet
@@ -202,6 +223,7 @@ Capital the single biggest winner.
 | vikramskr | semiconductor physics, optics, nodes | long-form research and explainers |
 | lithos_graphein | EUV lithography, High-NA, fab timelines | daily commentary, threads, Chip War Dashboard |
 | pequityresearch | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives |
+| tphuang | Chinese AI stack, chips, export controls, embodied AI | analysis threads, podcast, Substack |
 
 ## Adding to the list
 
