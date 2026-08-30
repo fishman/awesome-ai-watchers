@@ -195,6 +195,24 @@ gap may not be decisive. Also covers embodied AI - models embedded into
 factories and robots - where China is integrating AI into physical systems
 rather than chasing California's AGI narrative.
 
+### __d_1ggin
+
+https://x.com/__d_1ggin
+
+Substack: https://leoinai.substack.com/
+
+Leo (Leonardo Boquillon). Senior software engineer writing on AI and
+equities, running the Leonardo Boquillon Briefs Substack under the tagline
+"Thinking about AI when the incentives point the other way."
+
+What you get: research on the AI infrastructure buildout as an investment
+theme. Recent posts break down GPU depreciation economics in the neoclouds
+(is the thesis overstated?), the power grid's 26 consecutive quarters of
+growth, the 500-plus-company data center supply chain from high-voltage
+transformers to server racks, and the AI labor shift as a way to invest in
+the buildout without owning the model names. Cites the actual infrastructure
+vendors behind the capex - CoreWeave, Nebius, IREN, Koncar among them.
+
 ## Origin
 
 ### P_Bonnet
@@ -224,6 +242,7 @@ Capital the single biggest winner.
 | lithos_graphein | EUV lithography, High-NA, fab timelines | daily commentary, threads, Chip War Dashboard |
 | pequityresearch | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives |
 | tphuang | Chinese AI stack, chips, export controls, embodied AI | analysis threads, podcast, Substack |
+| __d_1ggin | AI infrastructure, data centers, grid, AI labor | infrastructure investment research |
 
 ## Adding to the list
 
