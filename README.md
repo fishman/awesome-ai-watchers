@@ -226,6 +226,55 @@ list: Nvidia acquires Hugging Face for about $12.9bn, with investors sharing
 roughly $7.3bn of profit on under $400m invested (about 20x blended) and Lux
 Capital the single biggest winner.
 
+### ChipsandWafers
+
+https://x.com/ChipsandWafers
+
+Reference post: https://x.com/ChipsandWafers/status/2093999509747413158
+
+Chips & Wafers tracks the semiconductor supply chain, with a lens on
+packaging and substrate sourcing. The post that seeded this list: Singapore
+ramping its packaging capacity and importing more substrates, and where those
+substrates come from - Malaysia - tied to AT&S (ATS.VIE) and Simmtech
+(222800.KQ).
+
+What you get: supply-chain analysis that names the listed names behind the
+physical flows (packaging, IC substrates), with a focus on where the wafers
+and substrates actually get made.
+
+### Schulz_Research
+
+https://x.com/Schulz_Research
+
+Reference post: https://x.com/Schulz_Research/status/2094071237916193258
+
+Independent AI supply-chain research: optics, memory, power, Asia and US
+filings read in the original and translated into pricing - "the chokepoints
+nobody prices in". The post that seeded this list: a teardown of the indium
+phosphide (InP) stack - the metal (not the binding constraint), the wafer
+(the real scarcity), and the PRC export permits that catch AXT (AXTI) rather
+than its Japanese peers.
+
+What you get: long-form supply-chain teardowns that separate the material,
+the wafer, and the paperwork, and name the companies actually caught by each.
+
+### jasonschips
+
+https://x.com/jasonschips
+
+Website: https://jasonschips.ai/
+
+Jason's Chips. Buyside AI stonks investor and writer - "20 & college
+dropout", all views his own, not financial advice. First-principles logic,
+economics, and humor on semiconductor and AI investing, with a heavy
+optics/photonics bent: InP substrates, co-packaged optics, and the names
+behind them.
+
+What you get: stock theses with the math attached - AXTI (his "biggest
+position"), the Soitec photonics-substrate series, Sivers as the most
+overvalued stock in optics - plus earnings reviews of Nvidia, ARM, Lumentum,
+CoreWeave, and Tower Semiconductor.
+
 ## At a glance
 
 | Handle | Focus | Output |
@@ -243,6 +292,9 @@ Capital the single biggest winner.
 | pequityresearch | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives |
 | tphuang | Chinese AI stack, chips, export controls, embodied AI | analysis threads, podcast, Substack |
 | __d_1ggin | AI infrastructure, data centers, grid, AI labor | infrastructure investment research |
+| ChipsandWafers | packaging and substrate supply chains | analysis naming the tickers behind the flows |
+| Schulz_Research | AI supply chain: optics, memory, power | long-form teardowns naming the chokepoints |
+| jasonschips | optics/photonics, InP substrates, chip theses | stock pitches with the math attached |
 
 ## Adding to the list
 
