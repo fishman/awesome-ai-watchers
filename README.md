@@ -8,6 +8,28 @@ reads regularly and can explain what it adds.
 Seeded from a deal breakdown by @P_Bonnet (see Origin) that broke down who
 actually makes money when an AI company gets acquired.
 
+## At a glance
+
+| Handle | Focus | Output | Links |
+|--------|-------|--------|-------|
+| [jukan05](https://x.com/jukan05) | semis, AI hardware, China AI policy | scoops, research memos, conference notes | [Substack](https://www.semiconsam.com/) [RSS](https://www.semiconsam.com/feed) |
+| [zephyr_z9](https://x.com/zephyr_z9) | AI and chips, memory, compute economics | analysis threads |  |
+| [divBy_zero](https://x.com/divBy_zero) | inference numerics, mixed-precision matmul, accelerators | technical deep dives |  |
+| [QingFengJianZX](https://x.com/QingFengJianZX) | chip packaging materials, ABF substrates, concept stocks | market news and stock roundups (Chinese) | WeChat: qingfengfinance |
+| [earnings_guy](https://x.com/earnings_guy) | earnings coverage across the market, AI-adjacent names included | charted earnings summaries | [Support](https://ko-fi.com/earnings_guy) |
+| [trendforce](https://x.com/trendforce) | memory pricing, HBM, CSP capex | price data and research summaries | [Site](https://www.trendforce.com/) [Substack](https://insights.trendforce.com) [WeChat](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MjE2NjgwMQ==&action=getalbum&album_id=1895986000502325255) |
+| [xu159411209](https://x.com/xu159411209) | materials choke points, export controls | supply chain updates with stock picks (Chinese) |  |
+| [antiAIvo](https://x.com/antiAIvo) | passive components (MLCC), price cycles | component market intelligence (Chinese) |  |
+| [vikramskr](https://x.com/vikramskr) | semiconductor physics, optics, nodes | long-form research and explainers | [Substack](https://www.viksnewsletter.com/) [RSS](https://www.viksnewsletter.com/feed) [Podcast](https://semidoped.com) [YouTube](https://www.youtube.com/@SemiDoped) |
+| [lithos_graphein](https://x.com/lithos_graphein) | EUV lithography, High-NA, fab timelines | daily commentary, threads, Chip War Dashboard | [Site](https://lithosgraphein.com/) [Substack](https://lithosgraphein.substack.com/) [RSS](https://lithosgraphein.substack.com/feed) |
+| [pequityresearch](https://x.com/pequityresearch) | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives | [Substack](https://pequityresearch.substack.com/) [RSS](https://pequityresearch.substack.com/feed) |
+| [tphuang](https://x.com/tphuang) | Chinese AI stack, chips, export controls, embodied AI | analysis threads, podcast, Substack | [Substack](https://tphuang.substack.com/) [RSS](https://tphuang.substack.com/feed) [Podcast](https://open.spotify.com/show/580SPShOTL5hpInPr4oMSR) |
+| [__d_1ggin](https://x.com/__d_1ggin) | AI infrastructure, data centers, grid, AI labor | infrastructure investment research | [Substack](https://leoinai.substack.com/) [RSS](https://leoinai.substack.com/feed) |
+| [P_Bonnet](https://x.com/P_Bonnet) | who actually makes money in AI deals | deal-breakdown threads |  |
+| [ChipsandWafers](https://x.com/ChipsandWafers) | packaging and substrate supply chains | analysis naming the tickers behind the flows | [Podcast](https://podcasts.apple.com/hk/podcast/ep-009-using-open-source-data-to-drive-investment-decisions/id1877544643?i=1000762262132) |
+| [Schulz_Research](https://x.com/Schulz_Research) | AI supply chain: optics, memory, power | long-form teardowns naming the chokepoints |  |
+| [jasonschips](https://x.com/jasonschips) | optics/photonics, InP substrates, chip theses | stock pitches with the math attached | [Substack](https://www.jasonschips.ai/) [RSS](https://www.jasonschips.ai/feed) |
+
 ## The List
 
 ### jukan05
@@ -274,27 +296,6 @@ What you get: stock theses with the math attached - AXTI (his "biggest
 position"), the Soitec photonics-substrate series, Sivers as the most
 overvalued stock in optics - plus earnings reviews of Nvidia, ARM, Lumentum,
 CoreWeave, and Tower Semiconductor.
-
-## At a glance
-
-| Handle | Focus | Output |
-|--------|-------|--------|
-| jukan05 | semis, AI hardware, China AI policy | scoops, research memos, conference notes |
-| zephyr_z9 | AI and chips, memory, compute economics | analysis threads |
-| divBy_zero | inference numerics, mixed-precision matmul, accelerators | technical deep dives |
-| QingFengJianZX | chip packaging materials, ABF substrates, concept stocks | market news and stock roundups (Chinese) |
-| earnings_guy | earnings coverage across the market, AI-adjacent names included | charted earnings summaries |
-| trendforce | memory pricing, HBM, CSP capex | price data and research summaries |
-| xu159411209 | materials choke points, export controls | supply chain updates with stock picks (Chinese) |
-| antiAIvo | passive components (MLCC), price cycles | component market intelligence (Chinese) |
-| vikramskr | semiconductor physics, optics, nodes | long-form research and explainers |
-| lithos_graphein | EUV lithography, High-NA, fab timelines | daily commentary, threads, Chip War Dashboard |
-| pequityresearch | AI capex, earnings, financial modeling | earnings breakdowns, capex forecasts, deep dives |
-| tphuang | Chinese AI stack, chips, export controls, embodied AI | analysis threads, podcast, Substack |
-| __d_1ggin | AI infrastructure, data centers, grid, AI labor | infrastructure investment research |
-| ChipsandWafers | packaging and substrate supply chains | analysis naming the tickers behind the flows |
-| Schulz_Research | AI supply chain: optics, memory, power | long-form teardowns naming the chokepoints |
-| jasonschips | optics/photonics, InP substrates, chip theses | stock pitches with the math attached |
 
 ## Adding to the list
 
